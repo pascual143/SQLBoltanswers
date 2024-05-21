@@ -1,0 +1,9 @@
+# Exercise 16 SQLBolt 
+
+// Create a new table named Database with the following colums:
+
+CREATE TABLE Database (
+    Name TEXT,
+    Version FLOAT,
+    Download_count INTEGER
+);
