@@ -1,0 +1,9 @@
+# Exercise 15 SQLBolt
+
+// This database is getting too big, lets remove all movies that were release before 2005
+DELETE FROM movies
+where year < 2005;
+
+//Andrew Stanto has also ledt the studio, so please remove all movies directed by him.
+DELETE FROM movies
+WHERE director = "Andrew Stanton"
