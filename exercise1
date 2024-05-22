@@ -1,4 +1,4 @@
-# EXERCISE 1
+# EXERCISE 1 SQLBolt
 // Find the title of each film
 SELECT * FROM movies
 // find te director of each film
